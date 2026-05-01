@@ -106,6 +106,17 @@ JavaScript, React
 * 3rd Place — BIT Hackathon
 
 ---
+## Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SABF226&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SABF226&layout=compact&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com/?user=SABF226&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SABF226&hide_border=true)
+
+---
 
 ## Contact
 
