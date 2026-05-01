@@ -74,6 +74,11 @@ JavaScript, React
 * Supported development and testing
 
 ---
+##GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=SABF226)
+
+##Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SABF226)
 
 ## Achievements
 
