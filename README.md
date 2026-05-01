@@ -14,6 +14,15 @@ I design and build web applications with a focus on modular architecture, clean 
 
 ## Technical Stack
 
+## Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JS-JavaScript-yellow)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![Node](https://img.shields.io/badge/Node.js-Backend-green)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![Git](https://img.shields.io/badge/Git-VersionControl-black)
+
+
 **Languages**
 JavaScript, TypeScript, PHP, Python, C
 
@@ -25,6 +34,14 @@ REST APIs, MVC Architecture, CRUD Systems, System Design
 
 **Tools**
 Git, GitHub, Linux, Figma, Netlify
+
+---
+## Engineering Focus
+
+- Full-stack application architecture
+- API design and integration
+- Database modeling and optimization
+- Scalable system design
 
 ---
 
@@ -75,9 +92,12 @@ JavaScript, React
 
 ---
 ##GitHub Stats
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=SABF226)
 
+---
 ##Top Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SABF226)
 
 ## Achievements
