@@ -109,10 +109,15 @@ JavaScript, React
 
 ## Contact
 
-Email: [sabfsanon@gmail.com](mailto:sabfsanon@gmail.com)
-LinkedIn: https://linkedin.com/in/sabf-sanon
-Portfolio: https://sabfcode-portfolio.netlify.app
+## Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdoul%20Sanon-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sabf-sanon)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://sabfcode-portfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sabfsanon@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=SABF226&style=for-the-badge)
+
+[![GitHub](https://img.shields.io/badge/GitHub-SABF226-black?style=for-the-badge&logo=github)](https://github.com/SABF226)
 ---
 
 ## Focus
