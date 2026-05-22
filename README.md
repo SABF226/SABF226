@@ -1,8 +1,8 @@
-# Hey, I'm SaBfCoDe 👋
+# Hey, I'm SaBfCoDe 
 
 **Computer Science Student | Full-Stack Developer | System Design Enthusiast**
 
-📍 Burkina Faso — Burkina Institute of Technology (BIT)
+ Burkina Faso — Burkina Institute of Technology (BIT)
 
 ---
 
@@ -12,7 +12,7 @@ I design and build web applications with a focus on modular architecture, clean 
 
 ---
 
-## 🛠 Technical Stack
+##  Technical Stack
 
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/JS-JavaScript-yellow)
@@ -38,7 +38,7 @@ REST APIs • MVC Architecture • CRUD Systems • System Design
 
 ---
 
-## 🎯 Engineering Focus
+##  Engineering Focus
 
 - Full-stack application architecture
 - API design and integration
@@ -47,7 +47,7 @@ REST APIs • MVC Architecture • CRUD Systems • System Design
 
 ---
 
-## 📂 Projects
+##  Projects
 
 ### **Faso Bus Booking Platform**
 *TypeScript, JavaScript*
@@ -65,11 +65,11 @@ REST APIs • MVC Architecture • CRUD Systems • System Design
 *JavaScript, React*
 - Contributed to a collaborative web application
 - Used Git-based workflow for team coordination
-- 🏆 Awarded 3rd place at BIT Hackathon
+-  Awarded 3rd place at BIT Hackathon
 
 ---
 
-## 💼 Experience
+## Experience
 
 **President — BIT English Club**
 - Designed a peer-learning system for technical communication
@@ -85,7 +85,7 @@ REST APIs • MVC Architecture • CRUD Systems • System Design
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SABF226&show_icons=true&hide_border=true&theme=dark)
 
@@ -97,14 +97,14 @@ REST APIs • MVC Architecture • CRUD Systems • System Design
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 - 🥈 Silver Medal — National Judo Championship (2024)
 - 🥉 3rd Place — BIT Hackathon
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdoul%20Sanon-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sabf-sanon)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://sabf-code.onrender.com/)
@@ -115,7 +115,7 @@ REST APIs • MVC Architecture • CRUD Systems • System Design
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
 - Advanced web development
 - System design and backend engineering
