@@ -99,8 +99,10 @@ REST APIs • MVC Architecture • CRUD Systems • System Design
 
 ## Achievements
 
-- 🥈 Silver Medal — National Judo Championship (2024)
-- 🥉 3rd Place — BIT Hackathon
+- 🥈 Silver Medal — National Judo Championship (July 2025)
+- Bootcamp USAEducation (July 2025)
+- 🥉 3rd Place — BIT Hackathon (Feb 2026)
+- Participation to Hackathon Des Grandes Ecoles (May 2026)
 
 ---
 
