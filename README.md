@@ -113,7 +113,7 @@ REST APIs • MVC Architecture • CRUD Systems • System Design
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sabfsanon@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-SABF226-black?style=for-the-badge&logo=github)](https://github.com/SABF226)
 
-![Profile Views](https://komarev.com/ghpvc/?username=SABF226&style=for-the-badge&color=purple)
+![Profile Views](https://komarev.com/ghpvc/?username=SABF226&style=for-the-badge&color=green)
 
 ---
 
