@@ -34,7 +34,7 @@ REST APIs • MVC Architecture • CRUD Systems • System Design
 ![GitHub](https://img.shields.io/badge/GitHub-Collaboration-black)
 ![Linux](https://img.shields.io/badge/Linux-OS-FCC624)
 ![Figma](https://img.shields.io/badge/Figma-Design-F24E1E)
-![Netlify](https://img.shields.io/badge/Netlify-Deployment-00C7B7)
+![Render/Netlify/Vercel](https://img.shields.io/badge/Netlify-Deployment-00C7B7)
 
 ---
 
@@ -113,7 +113,7 @@ REST APIs • MVC Architecture • CRUD Systems • System Design
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sabfsanon@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-SABF226-black?style=for-the-badge&logo=github)](https://github.com/SABF226)
 
-![Profile Views](https://komarev.com/ghpvc/?username=SABF226&style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=SABF226&style=for-the-badge&color=purple)
 
 ---
 
