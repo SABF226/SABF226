@@ -71,7 +71,7 @@ REST APIs • MVC Architecture • CRUD Systems • System Design
 
 ## Experience
 
-**President — BIT English Club**
+**President — BIT English Club (2025-2026)**
 - Designed a peer-learning system for technical communication
 - Led coordination and execution of club activities
 
