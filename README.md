@@ -75,7 +75,7 @@ REST APIs • MVC Architecture • CRUD Systems • System Design
 - Designed a peer-learning system for technical communication
 - Led coordination and execution of club activities
 
-**Team Leader — AIESEC (Sales Exchange)**
+**Team Leader — AIESEC (Experience in Exchange Departement)**
 - Managed a team of 5 in outreach operations
 - Coordinated strategy and execution
 
