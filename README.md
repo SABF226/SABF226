@@ -4,6 +4,8 @@
 
  Burkina Faso — Burkina Institute of Technology (BIT)
 
+ [![committers.top badge](https://user-badge.committers.top/burkina_faso_private/USERNAME.svg)](https://user-badge.committers.top/burkina_faso_private/USERNAME)
+
 ---
 
 ## About Me
