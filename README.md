@@ -3,9 +3,6 @@
 **Computer Science Student | Full-Stack Developer | System Design Enthusiast**
 
  Burkina Faso — Burkina Institute of Technology (BIT)
-
- [![committers.top badge](https://user-badge.committers.top/burkina_faso_private/USERNAME.svg)](https://user-badge.committers.top/burkina_faso_private/USERNAME)
-
 ---
 
 ## About Me
@@ -107,6 +104,8 @@ REST APIs • MVC Architecture • CRUD Systems • System Design
 - Participation to Hackathon Des Grandes Ecoles (May 2026)
 
 ---
+
+ [![committers.top badge](https://user-badge.committers.top/burkina_faso_private/USERNAME.svg)](https://user-badge.committers.top/burkina_faso_private/SABF226)
 
 ##  Connect With Me
 
