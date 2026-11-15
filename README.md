@@ -1,125 +1,216 @@
-# Hey, I'm SaBfCoDe 
+<div align="center">
 
-**Computer Science Student | Full-Stack Developer | System Design Enthusiast**
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:172033,100:10B981&height=220&section=header&text=SaBfCoDe&fontSize=58&fontColor=F8FAFC&fontAlignY=38&desc=Engineering%20Beyond%20Code&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
- Burkina Faso — Burkina Institute of Technology (BIT)
----
+  <h3>Full-Stack Developer · System Design Enthusiast · Tech Entrepreneur</h3>
 
-## About Me
+  <p>
+    <img src="https://img.shields.io/badge/Location-Burkina%20Faso-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Institution-BIT-172033?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Focus-Building%20Digital%20Solutions-22D3EE?style=for-the-badge" />
+  </p>
 
-I design and build web applications with a focus on modular architecture, clean APIs, and reliable data handling. My work combines full-stack development with system thinking to deliver functional and scalable solutions.
+  <a href="https://github.com/SABF226">
+    <img src="https://komarev.com/ghpvc/?username=SABF226&style=flat-square&color=10B981&label=PROFILE+VIEWS" />
+  </a>
 
----
-
-##  Technical Stack
-
-### **Languages**
-![JavaScript](https://img.shields.io/badge/JS-JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/TS-TypeScript-blue)
-![PHP](https://img.shields.io/badge/PHP-Backend-777BB4)
-![Python](https://img.shields.io/badge/Python-Programming-3776ab)
-![C](https://img.shields.io/badge/C-Systems-A8B9CC)
-
-### **Frameworks & Libraries**
-- **Frontend:** React
-- **Backend:** Node.js, Express, Laravel
-- **Databases:** MySQL
-
-### **Core Concepts**
-REST APIs • MVC Architecture • CRUD Systems • System Design
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-VersionControl-black)
-![GitHub](https://img.shields.io/badge/GitHub-Collaboration-black)
-![Linux](https://img.shields.io/badge/Linux-OS-FCC624)
-![Figma](https://img.shields.io/badge/Figma-Design-F24E1E)
-![Render/Netlify/Vercel](https://img.shields.io/badge/Netlify-Deployment-00C7B7)
+</div>
 
 ---
 
-##  Engineering Focus
+## `$ whoami`
 
-- Full-stack application architecture
-- API design and integration
-- Database modeling and optimization
-- Scalable system design
+I'm **SaBfCoDe**, a Computer Science student at **Burkina Institute of Technology (BIT)**, passionate about software engineering, web technologies, and building practical digital solutions.
 
----
+I design and develop applications with a focus on:
 
-##  Projects
+- Modular and maintainable software architecture.
+- Reliable backend systems and clean API design.
+- Database modeling and efficient data management.
+- User-oriented digital products.
+- Technology-driven entrepreneurship.
 
-### **Faso Bus Booking Platform**
-*TypeScript, JavaScript*
-- Designed a modular booking system with structured workflow
-- Implemented validation logic and state management
-- Focused on system reliability and data consistency
-
-### **Attendance Management System**
-*PHP, MySQL*
-- Built a centralized platform managing 100+ users
-- Optimized CRUD operations for efficient data handling
-- Reduced manual tracking errors through automation
-
-### **LibraFlow** *(Hackathon Project)*
-*JavaScript, React*
-- Contributed to a collaborative web application
-- Used Git-based workflow for team coordination
--  Awarded 3rd place at BIT Hackathon
+My ambition is to go beyond writing code: **understand problems, engineer solutions, and create meaningful digital impact.**
 
 ---
 
-## Experience
+## `// Current Mission`
 
-**President — BIT English Club (2025-2026)**
-- Designed a peer-learning system for technical communication
-- Led coordination and execution of club activities
+```javascript
+const mission = {
+  identity: "Developer & Tech Entrepreneur",
+  location: "Burkina Faso 🇧🇫",
+  learning: [
+    "Advanced Full-Stack Development",
+    "Backend Engineering",
+    "System Design",
+    "Software Architecture"
+  ],
+  building: [
+    "Scalable Web Applications",
+    "Digital Platforms",
+    "Real-world Software Solutions"
+  ],
+  mindset: "Learn. Build. Improve. Impact."
+};
+```
 
-**Team Leader — AIESEC (Experience in Exchange Departement)**
-- Managed a team of 5 in outreach operations
-- Coordinated strategy and execution
+---
+
+## `// Tech Arsenal`
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,php,python,c" />
+
+### Frameworks & Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel" />
+
+### Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,linux,figma,vercel" />
+
+</div>
+
+### Engineering Concepts
+
+`REST APIs` · `MVC Architecture` · `CRUD Systems` · `Database Modeling` · `Backend Engineering` · `System Design` · `Git Workflow`
+
+---
+
+## `// Featured Projects`
+
+### 01 — Faso Bus Booking Platform
+
+**Technologies:** TypeScript · JavaScript
+
+A modular bus-booking solution focused on structured workflows and reliable data handling.
+
+- Designed a modular booking workflow.
+- Implemented validation logic and state management.
+- Focused on system reliability and data consistency.
+
+### 02 — Attendance Management System
+
+**Technologies:** PHP · MySQL
+
+A centralized attendance management platform designed to simplify user tracking.
+
+- Built a platform managing more than 100 users.
+- Implemented CRUD operations for efficient data management.
+- Reduced manual tracking errors through automation.
+
+### 03 — LibraFlow
+
+**Technologies:** JavaScript · React  
+**Recognition:** 3rd Place — BIT Hackathon
+
+A collaborative web application developed in a hackathon environment.
+
+- Contributed to collaborative application development.
+- Used Git-based workflows for team coordination.
+- Achieved 3rd place at the BIT Hackathon.
+
+---
+
+## `// Experience & Leadership`
+
+**President — BIT English Club**  
+*2025–2026*
+
+- Designed a peer-learning system focused on technical communication.
+- Led the coordination and execution of club activities.
+
+**Team Leader — AIESEC | Experience in Exchange Department**
+
+- Managed a team of five members.
+- Coordinated outreach operations, strategy, and execution.
 
 **Web Developer Intern — WakatLab**
-- Worked on hardware-software integration
-- Supported development and testing
+
+- Worked on hardware-software integration.
+- Supported development and testing activities.
 
 ---
 
-## GitHub Activity
+## `// Beyond the Code`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SABF226&show_icons=true&hide_border=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SABF226&layout=compact&hide_border=true&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=SABF226&hide_border=true&theme=dark)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SABF226&hide_border=true&theme=github-dark)
+- **Silver Medal** — National Judo Championship, July 2025.
+- **Bootcamp** — USAEducation, July 2025.
+- **3rd Place** — BIT Hackathon, February 2026.
+- **Participant** — Hackathon des Grandes Écoles, May 2026.
 
 ---
 
-## Achievements
+## `// GitHub Analytics`
 
-- 🥈 Silver Medal — National Judo Championship (July 2025)
-- Bootcamp USAEducation (July 2025)
-- 🥉 3rd Place — BIT Hackathon (Feb 2026)
-- Participation to Hackathon Des Grandes Ecoles (May 2026)
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SABF226&show_icons=true&hide_border=true&bg_color=0B1120&title_color=10B981&icon_color=22D3EE&text_color=F8FAFC&rank_icon=github" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABF226&layout=compact&hide_border=true&bg_color=0B1120&title_color=10B981&text_color=F8FAFC" />
+
+</div>
+
+<div align="center">
+
+  <img width="95%" src="https://streak-stats.demolab.com?user=SABF226&hide_border=true&background=0B1120&ring=10B981&fire=22D3EE&currStreakLabel=10B981&sideLabels=F8FAFC&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" />
+
+</div>
+
+<div align="center">
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SABF226&bg_color=0B1120&color=F8FAFC&line=10B981&point=22D3EE&area=true&hide_border=true" />
+
+</div>
 
 ---
-[![Top GitHub Users in Burkina Faso](https://user-badge.committers.top/burkina_faso/SABF226.svg)](https://committers.top/burkina_faso)
- [![committers.top badge](https://user-badge.committers.top/burkina_faso_private/USERNAME.svg)](https://user-badge.committers.top/burkina_faso_private/SABF226)
 
-##  Connect With Me
+## `// Community`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdoul%20Sanon-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sabf-sanon)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://sabf-code.onrender.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sabfsanon@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-SABF226-black?style=for-the-badge&logo=github)](https://github.com/SABF226)
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SABF226&style=for-the-badge&color=green)
+  <a href="https://committers.top/burkina_faso">
+    <img src="https://user-badge.committers.top/burkina_faso/SABF226.svg" alt="GitHub Ranking Burkina Faso" />
+  </a>
+
+  <a href="https://committers.top/burkina_faso">
+    <img src="https://user-badge.committers.top/burkina_faso_private/SABF226.svg" alt="GitHub Ranking Burkina Faso All Contributions" />
+  </a>
+
+</div>
 
 ---
 
-##  Current Focus
+## `// Let's Connect`
 
-- Advanced web development
-- System design and backend engineering
-- Building scalable digital solutions
+<div align="center">
+
+  <a href="https://linkedin.com/in/sabf-sanon">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://sabf-code.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="mailto:sabfsanon@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/SABF226">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</div>
+
+<div align="center">
+
+  <h3>Building today. Engineering tomorrow.</h3>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:172033,100:0B1120&height=120&section=footer" width="100%" />
+
+</div>
