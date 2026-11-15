@@ -80,10 +80,22 @@ const mission = {
 `REST APIs` · `MVC Architecture` · `CRUD Systems` · `Database Modeling` · `Backend Engineering` · `System Design` · `Git Workflow`
 
 ---
+### 01 — [LibraFlow](https://libra-flow-officiel.vercel.app/)
+
+**Technologies:** JavaScript · React  
+**Recognition:** 3rd Place — BIT Hackathon
+**Team**:[Coders_Pro](https://coders-pro.netlify.app)
+
+A collaborative web application developed in a hackathon environment.
+
+- Contributed to collaborative application development.
+- Used Git-based workflows for team coordination.
+- Achieved 3rd place at the BIT Hackathon.
+
 
 ## `// Featured Projects`
 
-### 01 — Faso Bus Booking Platform 
+### 01 — [Faso Bus Booking Platform](https://fasobus-booking.vercel.app/)
 
 **Technologies:** TypeScript · JavaScript
 
@@ -102,17 +114,6 @@ A centralized attendance management platform designed to simplify user tracking.
 - Built a platform managing more than 100 users.
 - Implemented CRUD operations for efficient data management.
 - Reduced manual tracking errors through automation.
-
-### 03 — LibraFlow
-
-**Technologies:** JavaScript · React  
-**Recognition:** 3rd Place — BIT Hackathon
-
-A collaborative web application developed in a hackathon environment.
-
-- Contributed to collaborative application development.
-- Used Git-based workflows for team coordination.
-- Achieved 3rd place at the BIT Hackathon.
 
 ---
 
