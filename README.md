@@ -121,10 +121,16 @@ A collaborative web application developed in a hackathon environment.
 **President — BIT English Club**  
 *2025–2026*
 
-- Designed a peer-learning system focused on technical communication.
+- Designed a peer-learning system focused on technical communication: Mandora System.
 - Led the coordination and execution of club activities.
 
-**Team Leader — AIESEC | Experience in Exchange Department**
+**International Relation Manager — AIESEC in Burkina | EST MC Ubuntu 26.27**
+- strengthen our international relationships
+- support Local Committees in their international engagements
+- help build collaborations that create real value for young people
+
+  
+**Team Leader — AIESEC in Koudougou | Experience in Exchange Department 26.27**
 
 - Managed a team of five members.
 - Coordinated outreach operations, strategy, and execution.
