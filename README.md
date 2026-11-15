@@ -63,11 +63,11 @@ const mission = {
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,python,c" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,php,python,c" />
 
 ### Frameworks & Development
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,sprint-boot,laravel" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring-boot,laravel" />
 
 ### Databases & Tools
 
@@ -83,7 +83,7 @@ const mission = {
 
 ## `// Featured Projects`
 
-### 01 — Faso Bus Booking Platform[https://attend-bitenglishclub.xo.je/]
+### 01 — Faso Bus Booking Platform [https://attend-bitenglishclub.xo.je/]
 
 **Technologies:** TypeScript · JavaScript
 
