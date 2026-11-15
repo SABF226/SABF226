@@ -67,11 +67,11 @@ const mission = {
 
 ### Frameworks & Development
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring-boot,laravel" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,springboot,laravel" />
 
 ### Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,linux,figma,vercel" />
+<img src="https://skillicons.dev/icons?i=mysql,posgresql,git,github,linux,figma,vercel" />
 
 </div>
 
@@ -145,7 +145,7 @@ A collaborative web application developed in a hackathon environment.
 ## `// Beyond the Code`
 
 - **Silver Medal** — National Judo Championship, July 2025.
-- **Bootcamp** — USAEducation, July 2025.
+- **Bootcamp** — USAEducation, June 2026 & July 2025.
 - **3rd Place** — BIT Hackathon, February 2026.
 - **Participant** — Hackathon des Grandes Écoles, May 2026.
 
