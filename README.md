@@ -93,7 +93,7 @@ A modular bus-booking solution focused on structured workflows and reliable data
 - Implemented validation logic and state management.
 - Focused on system reliability and data consistency.
 
-### 02 — (Attendance Management System)href=[[https://attend-bitenglishclub.xo.je/]]
+### 02 — [Attendance Management System](https://attend-bitenglishclub.xo.je/)
 
 **Technologies:** PHP · MySQL
 
