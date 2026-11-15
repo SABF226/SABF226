@@ -67,11 +67,11 @@ const mission = {
 
 ### Frameworks & Development
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,springboot,laravel" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,laravel,wordpress" />
 
 ### Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,posgresql,git,github,linux,figma,vercel" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,linux,figma,vercel" />
 
 </div>
 
