@@ -83,7 +83,7 @@ const mission = {
 
 ## `// Featured Projects`
 
-### 01 — Faso Bus Booking Platform [https://attend-bitenglishclub.xo.je/]
+### 01 — Faso Bus Booking Platform 
 
 **Technologies:** TypeScript · JavaScript
 
@@ -93,7 +93,7 @@ A modular bus-booking solution focused on structured workflows and reliable data
 - Implemented validation logic and state management.
 - Focused on system reliability and data consistency.
 
-### 02 — Attendance Management System
+### 02 — (Attendance Management System)href=[[https://attend-bitenglishclub.xo.je/]]
 
 **Technologies:** PHP · MySQL
 
