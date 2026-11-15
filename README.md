@@ -137,7 +137,7 @@ A collaborative web application developed in a hackathon environment.
 
 **Web Developer Intern — WakatLab**
 
-- Worked on hardware-software integration.
+- Worked on hardware-software integration, WordPress, IoT and Computer Maintenance.
 - Supported development and testing activities.
 
 ---
