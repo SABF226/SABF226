@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:172033,100:10B981&height=220&section=header&text=SaBfCoDe&fontSize=58&fontColor=F8FAFC&fontAlignY=38&desc=Engineering%20Beyond%20Code&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:172033,100:10B981&height=220&section=header&text=SaBfCoDe&fontSize=60&fontColor=F8FAFC&fontAlignY=38&desc=Engineering%20Beyond%20Code&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
   <h3>Full-Stack Developer · System Design Enthusiast · Tech Entrepreneur</h3>
 
